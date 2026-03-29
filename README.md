@@ -14,4 +14,5 @@ I’ve got a bunch of pinned projects, but my favorite is the **Traffic Accident
 
 ### 🔗 Connect with me
 🌍 **Portfolio & Blog:** [adrianfrings.com](https://adrianfrings.com)
+
 💼 **LinkedIn:** [linkedin.com/in/adrianfrings](https://linkedin.com/in/yourprofile)
