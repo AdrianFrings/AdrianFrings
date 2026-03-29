@@ -6,7 +6,7 @@ In my free time, I like to explore new technologies or work on small projects th
 
 My main tech stack is **Python, SQL, Scikit-Learn, and PyTorch**. My favorite tools are **Docker, Streamlit and PowerBI**.
 
-My favorite is the **Traffic Accident Clustering**.
+My favorite personal project is the **Traffic Accident Clustering**.
 
 ---
 
